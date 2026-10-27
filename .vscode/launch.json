@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "string",
+            "request": "launch",
+            "mainClass": "string",
+            "projectName": "javaClass.java_4dec510d"
+        },
+        {
+            "type": "java",
             "name": "nestedif",
             "request": "launch",
             "mainClass": "nestedif",
