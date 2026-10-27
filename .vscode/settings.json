@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "workbench.preferredLightColorTheme": "Dark+",
+    "workbench.colorCustomizations" : {
+        "terminal.foreground": "#00FF00",
+        "terminal.background": "#1e1e1e",
+        "terminal.ansiRed": "#ff5555",
+        "terminal.ansiGreen": "#50fa7b",
+        "terminal.ansiBlue": "#bd93f9"
+    }
+}   
+
